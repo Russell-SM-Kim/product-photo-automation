@@ -1,0 +1,36 @@
+# Build
+/build/
+/out/
+
+# IDE
+.vscode/
+.vs/
+
+# Runtime data
+/Data/
+/Products/
+/Incoming/
+/logs/
+
+# Product data
+*.csv
+
+# Product images
+*.jpg
+*.jpeg
+*.png
+*.arw
+
+# CMake generated
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary
+*.tmp
+*.log

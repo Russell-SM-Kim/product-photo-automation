@@ -33,6 +33,9 @@ qt_add_executable(
 
     src/CameraManager.cpp
     src/CameraManager.h
+
+    resources.qrc
+    app.rc
 )
 
 target_link_libraries(

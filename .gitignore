@@ -1,6 +1,7 @@
 # Build
 /build/
 /out/
+/deploy/
 
 # IDE
 .vscode/
@@ -20,6 +21,10 @@
 *.jpeg
 *.png
 *.arw
+
+# Keep application assets
+!/assets/*.png
+!/assets/*.ico
 
 # CMake generated
 CMakeCache.txt
